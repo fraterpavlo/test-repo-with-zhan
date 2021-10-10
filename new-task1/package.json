@@ -1,0 +1,22 @@
+{
+  "name": "test-repo-with-zhan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraterpavlo/test-repo-with-zhan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fraterpavlo/test-repo-with-zhan/issues"
+  },
+  "homepage": "https://github.com/fraterpavlo/test-repo-with-zhan#readme",
+  "dependencies": {
+    "sass": "^1.42.1"
+  }
+}
